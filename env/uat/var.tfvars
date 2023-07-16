@@ -1,0 +1,8 @@
+region                              = ""
+env                                 = ""
+dev_bucket                           = ""
+admin_bucket                        = ""
+dev_cloudfront_certificate_arn       = ""
+admin_cloudfront_certificate_arn    = ""
+alb_certificate_arn                 = ""
+project_bucket                      = ""
